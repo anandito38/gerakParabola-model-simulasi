@@ -11,3 +11,8 @@ Code pada repository ini merupakan lampiran tugas diskusi group pertemuan kelas 
 - ANANDITO SATRIA ASYRAF (xxxx213026)
 - NICHOLAS DAVI ERLANGGA PUTRA SUSILO (xxxx213136)
 
+
+## Documentation
+
+[Simulasi Gerak Parabola](https://youtu.be/uG9E30YA3WE) dengan Kecepatan Awal 20m/s dan Sudut 60°
+
